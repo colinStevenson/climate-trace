@@ -1,0 +1,24 @@
+# Stories
+## Which countries are biggest CO2 producers
+## Which Sectors are the biggest CO2 Producers
+## Which SubSectors are the biggest CO2 Producers in [SECTOR]
+## Which Sector is the biggest CO2 producer in [COUNTRY]
+
+# Views
+
+## Top Country rollup
+
+## Country
+### Totals
+### Per sector
+### Per subsector
+
+## Sector
+### Totals
+### SubSector
+
+# Tasks
+
+## Stacked bars should have largest series at bottom (?)
+## Chart Y padding
+
